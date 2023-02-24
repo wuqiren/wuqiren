@@ -1,8 +1,5 @@
 ## Hi, I’m wuqiren
-曾任职于腾讯(北京)科技有限公司某前端组 
-现充电休息之中
-
-千里之行，始于足下
+远程办公中
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuqiren&show_icons=true&theme=tokyonight)
 
